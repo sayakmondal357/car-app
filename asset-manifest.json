@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/car-app/static/css/main.3b21fd84.css",
+    "main.js": "/car-app/static/js/main.569befcf.js",
+    "static/media/drive.png": "/car-app/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/car-app/index.html",
+    "main.3b21fd84.css.map": "/car-app/static/css/main.3b21fd84.css.map",
+    "main.569befcf.js.map": "/car-app/static/js/main.569befcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b21fd84.css",
+    "static/js/main.569befcf.js"
+  ]
+}
